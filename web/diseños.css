@@ -1,0 +1,13 @@
+body{
+    font-size: 18px;
+}
+#centrado{
+    text-align: center;
+}
+table{
+    margin: auto;
+}
+img{
+    margin: auto;
+    display: block;
+}
